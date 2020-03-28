@@ -1,0 +1,25 @@
+body{
+    font-family: 'Raleway' ;
+
+}
+h1{
+    font-size: 50px;
+    font-family: 'Lacquer';
+}
+h3{
+    font-family: 'Roboto' ;
+}
+.name-highlight{
+    font-size: 60px;
+    color: coral;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+
+.half img{
+    width: 100%;
+}
